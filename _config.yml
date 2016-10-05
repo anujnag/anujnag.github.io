@@ -10,13 +10,13 @@ url: "http://anujnag.github.io"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
+  name: 'Anuj Nagpal'
+  first_name: 'Anuj'
+  last_name: 'Nagpal'
+  email: 'anujnagpal96@gmail.com'
   facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
+  github_username: 'anujnag'
+  head_img: 'static/img/landing/profile_pic.png'
   desc: 'I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
 
 # sections
@@ -93,7 +93,7 @@ ga:
   id: UA-73784599-1
 
 # Build settings
-encoding: "utf-8"
+encoding: "ut f-8"
 
 # other settings
 highlighter: rouge
