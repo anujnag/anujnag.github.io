@@ -1,22 +1,22 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Anuj Nagpal"
+title: "Jalpc"
 description: "Jack's blog,use Jekyll and github pages."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 baseurl: "/"
-url: "http://anujnag.github.io"
+url: "http://www.jack003.com"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Anuj Nagpal'
-  first_name: 'Anuj'
-  last_name: 'Nagpal'
-  email: 'anujnagpal96@gmail.com'
+  name: 'Jack'
+  first_name: 'Jia'
+  last_name: 'Kun'
+  email: 'me@jack003.com'
   facebook_username: 'jiakunnj'
-  github_username: 'anujnag'
-  head_img: 'static/img/landing/profile_pic.png'
+  github_username: 'Jack614'
+  head_img: 'static/img/landing/Jack.jpg'
   desc: 'I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
 
 # sections
@@ -93,7 +93,7 @@ ga:
   id: UA-73784599-1
 
 # Build settings
-encoding: "ut f-8"
+encoding: "utf-8"
 
 # other settings
 highlighter: rouge
