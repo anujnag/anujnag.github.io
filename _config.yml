@@ -4,7 +4,7 @@
 title: Jalpc
 description: Jack's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://anujnag.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
@@ -12,7 +12,7 @@ img_path: /Jalpc/static/assets/img/blog  # url should be changed to '/homepage/s
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Anuj Nagpal  # Be used at blog posts' author.
-  first_name: Anuj  # Be used at index page about me section.
+  first_name: Anuj # Be used at index page about me section.
   last_name: Nagpal  # Be used at index page about me section.
   cv: http://cv.jack003.com  # A online CV can be printed as PDF, leave blank if you don't have now
   email: anujnagpal96@gmail.com  # Leave blank if you don't have now
