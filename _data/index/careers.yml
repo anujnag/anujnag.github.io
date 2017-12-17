@@ -4,10 +4,24 @@
     detail: Goldman Sachs
     i18n: company_a
   desc:
-    detail: Worked in the Securities Division
+    detail: Will be joining the SMM Team in Securities Division
     i18n: company_a_desc
   date:
-    detail: May. 2017
+    detail: July 2018 onwards
+    i18n: company_a_date
+  job:
+    detail: Analyst
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Goldman Sachs
+    i18n: company_a
+  desc:
+    detail: Worked in the Securities Division, Got a Pre-Placement Offer
+    i18n: company_a_desc
+  date:
+    detail: May 2017 - July 2017
     i18n: company_a_date
   job:
     detail: Summer Analyst
@@ -21,7 +35,7 @@
     detail: Currently pursuing my B.Tech. degree here
     i18n: company_b_desc
   date:
-    detail: July. 2014
+    detail: July 2014 - April 2018
     i18n: company_b_date
   job:
     detail: CSE Undergraduate
