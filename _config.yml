@@ -1,31 +1,31 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://jarrekk.github.io/Jalpc  # url should be changed to 'http://www.jack003.com/homepage' as before
+title: Anuj Nagpal - My Homepage
+description: Homepage of Anuj Nagpal
+keywords: Anuj,Nagpal,IITK,anujnag
+baseurl:  # if 	you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: http://anujnag.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
+img_path: ./static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
-  cv: http://cv.jack003.com  # A online CV can be printed as PDF, leave blank if you don't have now
-  email: me@jack003.com  # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  github_username: jarrekk  # Leave blank if you don't have now
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  name: Anuj Nagpal  # Be used at blog posts' author.
+  first_name: Anuj  # Be used at index page about me section.
+  last_name: Nagpal  # Be used at index page about me section.
+  cv: Resume_Anuj.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
+  email: anujnagpal96@gmail.com  # Leave blank if you don't have now
+  facebook_username: anuj.nagpal.731  # Leave blank if you don't have now
+  github_username: anujnag  # Leave blank if you don't have now
+  avatar: /static/assets/img/landing/DP.jpg  # upload your avatar at directory and edit it.
   skill_icon1:
     - name: icon-apache
     - name: fa-linux
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.
+  desc: Hi! Anuj Nagpal here!
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -35,7 +35,7 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  # id:
+   id: UA-92624039-1
 
 ## growingIO
 gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
