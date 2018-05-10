@@ -14,24 +14,25 @@
 
 - id: skills
   i18n: nav.skills
-  name: Skills
+  name: Interests
   tpl: skills.html
   css: team
 
-- id: projects
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
-  css: project
+ 
+#- id: projects
+#  i18n: nav.projects
+#  name: Projects
+#  tpl: projects.html
+#  css: project
 
 - id: blog
   i18n: nav.blog
-  name: Blog
+  name: Resume
   tpl: blog.html
   css: testimonials navy-section
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: Contact Me
   tpl: links.html
   css: contact

@@ -1,10 +1,10 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Anuj Nagpal - My Homepage
-description: Homepage of Anuj Nagpal
-keywords: Anuj,Nagpal,IITK,anujnag
-baseurl:  # if 	you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+title: Anuj Nagpal CSE IITK
+description: Homepage of Anuj Nagpal, IIT Kanpur  
+keywords: Anuj,Nagpal,CSE,IITK,Jekyll,anujnag
+baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://anujnag.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: ./static/assets/img/blog  # url should be changed to '/homepage/static/assets/img/blog' as before
@@ -12,7 +12,7 @@ img_path: ./static/assets/img/blog  # url should be changed to '/homepage/static
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Anuj Nagpal  # Be used at blog posts' author.
-  first_name: Anuj  # Be used at index page about me section.
+  first_name: Anuj # Be used at index page about me section.
   last_name: Nagpal  # Be used at index page about me section.
   cv: Resume_Anuj.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
   email: anujnagpal96@gmail.com  # Leave blank if you don't have now
@@ -25,24 +25,24 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi! Anuj Nagpal here!
+  desc: Hi! Anuj Nagpal here! I am a 4th year Computer Science and Engineering Undergraduate at IIT Kanpur.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+#  name: jalpc
+#  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-   id: UA-92624039-1
+    id: UA-92624039-1
 
 ## growingIO
 gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 
 # Build settings
