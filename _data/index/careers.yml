@@ -4,10 +4,10 @@
     detail: Goldman Sachs
     i18n: company_a
   desc:
-    detail: Will be joining the SMM Team in Securities Division
+    detail: Working as quantitative and algorithmic market making developer of credit products
     i18n: company_a_desc
   date:
-    detail: July 2018 onwards
+    detail: July 2018 - Current
     i18n: company_a_date
   job:
     detail: Analyst
@@ -32,7 +32,7 @@
     detail: IIT Kanpur
     i18n: company_b
   desc:
-    detail: Currently pursuing my B.Tech. degree here
+    detail: Completed my B.Tech. in Computer Science and Engineering from here
     i18n: company_b_desc
   date:
     detail: July 2014 - April 2018
