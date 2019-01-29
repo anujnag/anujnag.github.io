@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Probabilistic Machine Learning, Applied Statistics, Financial Engineering, Server Technologies,Randomized Algorithms, Sleeping, Guitar, Cyber Security
-percentage: 80, 80, 80, 70, 72, 70, 75, 75
+aspects: Probabilistic Machine Learning, Statistical Methods in Finance, Computer Vision, Reinforcement Learning, Natural Language Processing, Data Mining & Information Retrieval, Theoretical ML, Game Theory & Mechanism Design
+percentage: 90, 75, 65, 75, 85, 60, 65, 75
