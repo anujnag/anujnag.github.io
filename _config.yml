@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Anuj Nagpal Goldman Sachs
-description: Homepage of Anuj Nagpal, Goldman Sachs
+title: Anuj Nagpal
+description: Homepage of Anuj Nagpal
 keywords: Anuj,Nagpal,CSE,IITK,Jekyll,anujnag,Goldman Sachs
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://anujnag.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
