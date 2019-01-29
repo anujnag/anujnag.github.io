@@ -19,3 +19,13 @@
   i18n: compiler
   img: /static/assets/img/landing/familycode.png
   desc: Course Project in Compiler Design.
+
+- name: Java to x86 Assembly Compiler
+  i18n: compiler
+  img: /static/assets/img/landing/familycode.png
+  desc: Course Project in Compiler Design.
+
+- name: Java to x86 Assembly Compiler
+  i18n: compiler
+  img: /static/assets/img/landing/familycode.png
+  desc: Course Project in Compiler Design.  

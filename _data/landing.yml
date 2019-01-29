@@ -19,9 +19,9 @@
   css: team
 
 - id: resume
-  i18n: Resume.pdf
+  i18n: nav.resume
   name: Resume
-  tpl:
+  tpl: resume.html
   css:
  
 - id: projects
