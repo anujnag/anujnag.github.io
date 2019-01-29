@@ -18,6 +18,11 @@
   tpl: skills.html
   css: team
 
+- id: resume
+  i18n: Resume.pdf
+  name: Resume
+  tpl:
+  css:
  
 - id: projects
   i18n: nav.projects
@@ -27,7 +32,7 @@
 
 - id: blog
   i18n: nav.blog
-  name: Resume
+  name: Blog
   tpl: blog.html
   css: testimonials navy-section
 

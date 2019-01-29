@@ -1,21 +1,21 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: Probabilistic Word Sense Embeddings
+  i18n: pml
+  gh_user: anujnag
+  repo: Probabilistic Word Sense Embeddings
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Course Project in Probabilstic Machine Learning.
 
-- name: LeetCode
-  i18n: leetcode
-  gh_user: kamyu104
-  repo: LeetCode
+- name: Deep Reinforcement Learning
+  i18n: deeprl
+  gh_user: anujnag
+  repo: Deep Reinforcement Learning
   img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Course Project in Machine Learning Techniques.
 
-- name: FamilyCODE Wchat
-  i18n: familycode
+- name: Java to x86 Assembly Compiler
+  i18n: compiler
   img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+  desc: Course Project in Compiler Design.

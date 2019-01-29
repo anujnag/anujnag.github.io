@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi! Anuj Nagpal here! I am currently working as an analyst in Securities Division of Goldman Sachs.
+  desc: Hi there! I am an analyst in Securities Division of Goldman Sachs. I am primarily interested in machine learning from a probabilistic point of view. 
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
