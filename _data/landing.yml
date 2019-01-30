@@ -22,7 +22,7 @@
   i18n: nav.resume
   name: Resume
   tpl: resume.html
-  css:
+  css: testimonials navy-section
  
 - id: projects
   i18n: nav.projects
