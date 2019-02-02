@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[PML] Test blog"
+title:  "[PML] Test Blog 3"
 date:   2019-02-01
-desc: "[PML] Test blog"
+desc: "[PML] Test Blog 3"
 keywords: "PML,Test,blog"
 categories: [Probabilistic Machine Learning]
 tags: [Test,Blog]

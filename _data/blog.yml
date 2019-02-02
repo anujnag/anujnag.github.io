@@ -1,5 +1,5 @@
 # blog page sections
-- name: Latest Blog
+- name: Latest Entries
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
@@ -15,8 +15,8 @@
 - name: RL
   href: /rl/
 
-- name: App Stats
-  href: /appstats/
+- name: Stats
+  href: /stats/
 
 - name: GT
   href: /gt/
