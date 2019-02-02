@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Anuj Nagpal
+title: Anuj's Little World
 description: Homepage of Anuj Nagpal
 keywords: Anuj,Nagpal,CSE,IITK,Jekyll,anujnag,Goldman Sachs
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi there! I am an analyst in Securities Division of Goldman Sachs. I am primarily interested in machine learning from a probabilistic point of view. 
+  desc: Hi there! I am currently working as an analyst in Securities Division of Goldman Sachs. I am primarily interested in machine learning from a probabilistic point of view. Scroll down to know more about me and my works
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
