@@ -20,11 +20,11 @@ author:  # change following line to your infomation.
   github_username: anujnag  # Leave blank if you don't have now
   avatar: /static/assets/img/landing/DP.jpg  # upload your avatar at directory and edit it.
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fa-superpowers 
+    - name: fa-fort-awesome
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fa-fort-awesome
+    - name: fa-superpowers
   desc: Hi there! I am currently working as an analyst in Securities Division of Goldman Sachs. I am primarily interested in machine learning from a probabilistic point of view. Scroll down to know more about me and my works
 
 # comment
