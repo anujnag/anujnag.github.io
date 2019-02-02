@@ -38,6 +38,6 @@
 
 - id: links
   i18n: nav.link
-  name: Contact Me
+  name: Contact
   tpl: links.html
   css: contact
