@@ -7731,6 +7731,13 @@ body.landing-page {
     background-image: url(../img/landing/avatar_all.png)
 }
 
+.landing-page .blog-section {
+  padding-top: 80px;
+  padding-bottom: 90px;
+  background-color: #3385FF;
+  background-image: url(../img/landing/blog.jpg);
+}
+
 .landing-page .big-icon {
     font-size: 56px!important
 }

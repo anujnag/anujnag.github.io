@@ -1,31 +1,31 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Probabilistic Word Sense Embeddings
+- name: Probabilistic Machine Learning
   i18n: pml
   gh_user: anujnag
   repo: Probabilistic Word Sense Embeddings
-  img: /static/assets/img/landing/jekyll.png
-  desc: Course Project in Probabilstic Machine Learning.
+  img: /static/assets/img/landing/aiflowers.png
+  desc: Section Under Construction
 
 - name: Deep Reinforcement Learning
   i18n: deeprl
   gh_user: anujnag
   repo: Deep Reinforcement Learning
-  img: /static/assets/img/landing/leetcode.png
-  desc: Course Project in Machine Learning Techniques.
+  img: /static/assets/img/landing/aiflowers.png
+  desc: Section Under Construction
 
-- name: Java to x86 Assembly Compiler
+- name: Natural Language Processing
   i18n: compiler
-  img: /static/assets/img/landing/familycode.png
-  desc: Course Project in Compiler Design.
+  img: /static/assets/img/landing/aiflowers.png
+  desc: Section Under Construction
 
-- name: Java to x86 Assembly Compiler
+- name: Visual Recognition
   i18n: compiler
-  img: /static/assets/img/landing/familycode.png
-  desc: Course Project in Compiler Design.
+  img: /static/assets/img/landing/aiflowers.png
+  desc: Section Under Construction
 
-- name: Java to x86 Assembly Compiler
+- name: Statistical and Game Theoretic Methods in Economics
   i18n: compiler
-  img: /static/assets/img/landing/familycode.png
-  desc: Course Project in Compiler Design.  
+  img: /static/assets/img/landing/aiflowers.png
+  desc: Section Under Construction  

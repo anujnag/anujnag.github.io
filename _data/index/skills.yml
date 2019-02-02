@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Probabilistic Machine Learning, Applied Statistics, Theoretical ML, Reinforcement Learning, Natural Language Processing, Information Retrieval, Computer Vision, Mechanism Design
-percentage: 95, 85, 80, 85, 90, 75, 85, 75
+aspects: Probabilistic ML, Applied Statistics, Theoretical ML, Reinforcement Learning, Natural Language Processing, Information Retrieval, Computer Vision, Mechanism Design
+percentage: 90, 75, 60, 85, 70, 60, 70, 65
