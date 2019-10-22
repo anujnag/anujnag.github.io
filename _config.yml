@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Anuj Nagpal  # Be used at blog posts' author.
   first_name: Anuj # Be used at index page about me section.
   last_name: Nagpal  # Be used at index page about me section.
-  cv: Resume_Anuj.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
+  cv: Anuj_CV.pdf  # A online CV can be printed as PDF, leave blank if you don't have now
   email: anujnagpal96@gmail.com  # Leave blank if you don't have now
   facebook_username: anuj.nagpal.731  # Leave blank if you don't have now
   github_username: anujnag  # Leave blank if you don't have now
@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-fort-awesome
     - name: fa-superpowers
-  desc: Hi there! I am currently working as an analyst in Securities Division of Goldman Sachs. I am primarily interested in machine learning from a probabilistic point of view. Scroll down to know more about me and my works
+  desc: Hi there! I am an analyst in Securities Division of Goldman Sachs with primary interests in computational economics, social networks and probabilistic modelling. I graduated with a bachelors in Computer Science and Engineering from IIT Kanpur in 2018. Apart from my academic interests, I love listening to progressive and alternating rock, particularly the creations of Porcupine Tree.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

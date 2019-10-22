@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Probabilistic ML, Applied Statistics, Learning Theory, Reinforcement Learning, Natural Language Processing, Information Retrieval, Social Networks, Mechanism Design
-percentage: 90, 75, 80, 85, 80, 70, 75, 80
+aspects: Algorithmic Game Theory, Graphical Models, Causal Inference, Reinforcement Learning, Computational Economics, Probabilistic Modelling, Social Networks, Mechanism Design
+percentage: 90, 80, 85, 80, 90, 80, 85, 85
