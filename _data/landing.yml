@@ -32,7 +32,7 @@
 
 - id: blog
   i18n: nav.blog
-  name: Blog
+  name: My Notes
   tpl: blog.html
   css: blogbg navy-section
 
