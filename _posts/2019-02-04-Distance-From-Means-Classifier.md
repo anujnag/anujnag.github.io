@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Distance From Means Classifier"
-date:   2019-02-04
+title:  "Test Note - Distance From Means Classifier"
+date:   2020-08-15
 desc: "Distance From Means Classifier"
 keywords: "ML,Classifier"
 categories: [Probabilistic Machine Learning]
 tags: [ML,Classifier]
 icon: icon-html
 ---
+
+Main agenda of writing this note is to check if I can write basic latex equations, include proportionate images and give refernces and tags.
 
 Distance from Means Classifier is the most trivial and easiest to understand machine learning algorithm.
 
@@ -30,7 +32,7 @@ $$\begin{equation}
 || \mu_{-} - x ||^2 = || \mu_{-} ||^2 + || x ||^2 - 2 < \mu_{-}, x >
 \end{equation}$$
 
-I will complete this note tomorrow.....  :P
+This is a test note, so I am leaving it just here.
 
 <center><img src="{{ site.img_path }}/distance_from_means/hyperplane.PNG" height="20%" width="20%"></center>
 
