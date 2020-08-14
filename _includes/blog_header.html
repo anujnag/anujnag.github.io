@@ -33,7 +33,7 @@
                         {% else %}
                         <li>
                         {% endif %}
-                        <a class="page-scroll" href="{{ tag.href | prepend: site.baseurl }}">{{ tag.name }}</a></li>
+                        <a class="page-scroll navbar-brand" href="{{ tag.href | prepend: site.baseurl }}">{{ tag.name }}</a></li>
                         {% endif %}
                     {% endfor %}
                 </ul>

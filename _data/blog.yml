@@ -1,28 +1,19 @@
 # blog page sections
-- name: Latest Entries
-  href: /blog/
+#- name: Latest Entries
+#  href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: PML
+- name: Probabilistic ML
   href: /pml/
 
-- name: NLP
+- name: Graphical ML
   href: /nlp/
 
-- name: CV
-  href: /cv/
-
-- name: RL
+- name: Reinforcement Learning
   href: /rl/
 
-- name: Stats
+- name: Theoretical ML
   href: /stats/
-
-- name: GT
-  href: /gt/
-
-- name: IR
-  href: /ir/  
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
