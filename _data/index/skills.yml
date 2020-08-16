@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Probabilistic Graphical Models, Reinforcement Learning, Graph Machine Learning, Computational Economics, Stochastic Modeling
-percentage: 90, 70, 80, 60, 75
+aspects: Probabilistic Graphical Models, Reinforcement Learning, Graph Machine Learning, Computational Economics, Deep Generative Models, Stochastic Modeling
+percentage: 90, 60, 90, 60, 75, 70
