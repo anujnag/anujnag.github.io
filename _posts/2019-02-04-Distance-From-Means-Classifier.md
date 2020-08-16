@@ -4,7 +4,7 @@ title:  "Test Note - Distance From Means Classifier"
 date:   2020-08-15
 desc: "Distance From Means Classifier"
 keywords: "ML,Classifier"
-categories: [Probabilistic Machine Learning]
+categories: [Probabilistic ML]
 tags: [ML,Classifier]
 icon: icon-html
 ---

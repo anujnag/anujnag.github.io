@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Algorithmic Game Theory, Graphical Models, Causal Inference, Reinforcement Learning, Computational Economics, Probabilistic Modelling, Social Networks, Quantitative Finance
-percentage: 90, 80, 85, 80, 90, 80, 85, 85
+aspects: Probabilistic Graphical Models, Reinforcement Learning, Graph Machine Learning, Computational Economics, Stochastic Modeling
+percentage: 90, 70, 80, 60, 75
