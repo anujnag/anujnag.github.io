@@ -19,13 +19,3 @@
   i18n: compiler
   img: /static/assets/img/landing/aiflowers.png
   desc: Section Under Construction
-
-- name: Visual Recognition
-  i18n: compiler
-  img: /static/assets/img/landing/aiflowers.png
-  desc: Section Under Construction
-
-- name: Statistical and Game Theoretic Methods in Economics
-  i18n: compiler
-  img: /static/assets/img/landing/aiflowers.png
-  desc: Section Under Construction  
