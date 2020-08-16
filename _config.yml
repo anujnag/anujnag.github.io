@@ -20,12 +20,12 @@ author:  # change following line to your infomation.
   github_username: anujnag  # Leave blank if you don't have now
   avatar: /static/assets/img/landing/DP.jpg  # upload your avatar at directory and edit it.
   skill_icon1:
-    - name: fa-superpowers 
+    - name: fa-superpowers
     - name: fa-fort-awesome
   skill_icon2:
     - name: fa-fort-awesome
     - name: fa-superpowers
-  desc: Hi there! I am an analyst in Securities Division of Goldman Sachs. My primary interests lie in computational economics, social network analysis, quantitative finance and probabilistic modelling. I graduated with a bachelors in Computer Science and Engineering from IIT Kanpur in 2018. Apart from my academic interests, I love listening to progressive and alternative rock, particularly the creations of Porcupine Tree.
+  desc: Hi there! I am currently an analyst in Securities Division of Goldman Sachs. My primary interests lie in probabilistic graphical models, graph machine learning, deep generative models and operations research. I graduated with a bachelors in Computer Science and Engineering from IIT Kanpur in 2018. Apart from my academic interests, I love listening to progressive and alternative rock, particularly the creations of Porcupine Tree.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

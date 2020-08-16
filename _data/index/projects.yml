@@ -1,21 +1,23 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Probabilistic Machine Learning
-  i18n: pml
+- name: ProbabilisticModeler
+  i18n: probabilisticmodeler
   gh_user: anujnag
-  repo: Probabilistic Word Sense Embeddings
-  img: /static/assets/img/landing/aiflowers.png
-  desc: Section Under Construction
+  repo: ProbabilisticModeler
+  img: /static/assets/img/landing/pml.png
+  desc: Quick Probabilistic Modeling and Inference
 
-- name: Deep Reinforcement Learning
-  i18n: deeprl
+- name: GraphLearner
+  i18n: graphlearner
   gh_user: anujnag
-  repo: Deep Reinforcement Learning
-  img: /static/assets/img/landing/aiflowers.png
-  desc: Section Under Construction
+  repo: GraphLearner
+  img: /static/assets/img/landing/graph.jpg
+  desc: Analysis and Machine Learning on Graph Data
 
-- name: Natural Language Processing
-  i18n: compiler
-  img: /static/assets/img/landing/aiflowers.png
-  desc: Section Under Construction
+- name: DecisionOptimizer
+  i18n: decisionoptimizer
+  gh_user: anujnag
+  repo: DecisionOptimizer
+  img: /static/assets/img/landing/decision.jpg
+  desc: Decision Making Using Tools from Operations Research

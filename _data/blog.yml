@@ -1,7 +1,7 @@
 # blog page sections
 
-#- name: Latest Entries
-#  href: /blog/
+- name: Latest Entries
+  href: /blog/
 
 - name: Cheat Sheets
   href: /cheatsheets/
