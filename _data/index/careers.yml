@@ -4,10 +4,24 @@
     detail: Goldman Sachs
     i18n: company_a
   desc:
-    detail: Working as quantitative and algorithmic market making analyst
+    detail: FICC ION Credit Strats, Global Markets Division
     i18n: company_a_desc
   date:
-    detail: June 2018 - Current
+    detail: Jan 2021 - Current
+    i18n: company_a_date
+  job:
+    detail: Associate
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Goldman Sachs
+    i18n: company_a
+  desc:
+    detail: Credit and Quant Algo Trading, Securities Division
+    i18n: company_a_desc
+  date:
+    detail: June 2018 - Dec 2020
     i18n: company_a_date
   job:
     detail: Analyst
