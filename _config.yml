@@ -3,7 +3,7 @@
 # Website settings
 title: Anuj Nagpal
 description: Homepage of Anuj Nagpal
-keywords: Anuj,Nagpal,CSE,IITK,Jekyll,anujnag,Goldman Sachs
+keywords: Anuj,Nagpal,CSE,IITK,Stanford,ICME,Jekyll,anujnag,Goldman Sachs
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://anujnag.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-fort-awesome
     - name: fa-superpowers
-  desc: Hi there! I am currently an analyst in Securities Division of Goldman Sachs. My primary interests lie in probabilistic graphical models, graph machine learning, deep generative models and operations research. I graduated with a bachelors in Computer Science and Engineering from IIT Kanpur in 2018. Apart from my academic interests, I love listening to progressive and alternative rock, particularly the creations of Porcupine Tree.
+      desc: Hi there! I am an incoming graduate student in Stanford University and will be majoring in Computational and Mathematical Engineering. I did my undergrad from Indian Institue of Technology, Kanpur in Computer Science and Engineering in 2018. After that, I worked as an Associate in the Global Markets (formerly known as Securities) Division of Goldman Sachs, focusing on credit fixed income products. My current interests revolve around graph machine learning, deep generative models and reinforcement learning. Apart from my academic interests, I am a big rock and roll fan and lately trying to jam along on my acoustic or electric guitar as much as I can :)
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
