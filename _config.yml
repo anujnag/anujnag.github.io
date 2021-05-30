@@ -3,7 +3,7 @@
 # Website settings
 title: Anuj Nagpal
 description: Homepage of Anuj Nagpal
-keywords: Anuj,Nagpal,CSE,IITK,Stanford,ICME,Jekyll,anujnag,Goldman Sachs
+keywords: Anuj,Nagpal,CSE,IITK,Stanford,ICME,Computational,Mathematical,Engineering,anujnag,Goldman Sachs
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://anujnag.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
@@ -25,7 +25,8 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-fort-awesome
     - name: fa-superpowers
-      desc: Hi there! I am an incoming graduate student in Stanford University and will be majoring in Computational and Mathematical Engineering. I did my undergrad from Indian Institue of Technology, Kanpur in Computer Science and Engineering in 2018. After that, I worked as an Associate in the Global Markets (formerly known as Securities) Division of Goldman Sachs, focusing on credit fixed income products. My current interests revolve around graph machine learning, deep generative models and reinforcement learning. Apart from my academic interests, I am a big rock and roll fan and lately trying to jam along on my acoustic or electric guitar as much as I can :)
+  desc: Hi there! I am an incoming graduate student in Stanford University's ICME Department and will be majoring in Computational and Mathematical Engineering. Prior to this, I did my undergrad in Computer Science and Engineering from Indian Institute of Technology Kanpur (IITK) and worked as an Associate in the Global Markets (formerly known as Securities) division of Goldman Sachs. My primary interests revolve around deep generative models, graph machine learning and reinforcement learning. Apart from my academic interests, I am a rock and roll fan and have been lately trying to jam along on my acoustic or electric guitar as much as I can :)
+
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
