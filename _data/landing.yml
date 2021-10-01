@@ -26,7 +26,7 @@
 
 - id: resume
   i18n: nav.resume
-  name: CV
+  name: Resume
   tpl: resume.html
   css: testimonials navy-section
 
