@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Probabilistic Graphical Models, Reinforcement Learning, Graph Machine Learning, Quantitative Finance, Deep Generative Models, Stochastic Modeling
-percentage: 90, 60, 90, 60, 75, 70
+aspects: Reinforcement Learning, Graph ML, Tennis, Generative Models, Natural Language Processing, Music, Finance
+percentage: 80, 60, 50, 90, 70, 100, 60

@@ -2,8 +2,8 @@
 
 # Website settings
 title: Anuj Nagpal
-description: Homepage of Anuj Nagpal
-keywords: Anuj,Nagpal,CSE,IITK,Stanford,ICME,Computational,Mathematical,Engineering,anujnag,Goldman Sachs
+description: Welcome to my homepage!
+keywords: Anuj,Nagpal,IIT,Kanpur,Stanford,ICME,Computational,Mathematical,Engineering,anujnag,Goldman Sachs,Meta
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://anujnag.github.io  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
@@ -25,7 +25,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-fort-awesome
     - name: fa-superpowers
-  desc: Hi there! I am a graduate student in Stanford University's ICME Department and will be majoring in Computational and Mathematical Engineering. Prior to this, I did my undergrad in Computer Science and Engineering from Indian Institute of Technology Kanpur (IITK) and worked as an Associate in the Global Markets (formerly known as Securities) division of Goldman Sachs. My primary interests revolve around deep generative models, graph machine learning and reinforcement learning. Apart from my academic interests, I am a rock and roll fan and have been lately trying to jam along on my acoustic or electric guitar as much as I can :)
+  desc: Hi there! I am a graduate student in Stanford University's majoring in Computational and Mathematical Engineering. I did my undergraduate in Computer Science and Engineering from Indian Institute of Technology Kanpur and joined Goldman Sachs after that in their Global Markets division (formerly known as Securities). My primary interests revolve around deep generative models, reinforcement learning, natural language processing and graph machine learning. Apart from my academic interests, I deeply love listening to music and a big time fan of rock genre (do you have a recommendation for a new song?). I love playing guitar in my free time and I've been lately picking up on tennis. Emails work best for contacting me!
 
 
 # comment

@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Meta Inc.
+    i18n: company_a
+  desc:
+    detail: Product Understanding
+    i18n: company_a_desc
+  date:
+    detail: Jun 2022 - Sep 2022
+    i18n: company_a_date
+  job:
+    detail: Summer Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Goldman Sachs
     i18n: company_a
   desc:
