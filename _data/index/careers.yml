@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Meta Inc.
+    detail: Meta
     i18n: company_a
   desc:
     detail: Product Understanding
@@ -15,13 +15,27 @@
   icon: fa-plus-square
 
 - name:
+    detail: Stanford University
+    i18n: company_a
+  desc:
+    detail: Computational and Mathematical Engineering
+    i18n: company_a_desc
+  date:
+    detail: Sep 2021 - Current
+    i18n: company_a_date
+  job:
+    detail: Master's Student
+    i18n: company_a_job
+  icon: fa-plus-square  
+
+- name:
     detail: Goldman Sachs
     i18n: company_a
   desc:
-    detail: FICC ION Credit Strats, Global Markets Division
+    detail: Fixed Income ION Credit Strats, Global Markets Division
     i18n: company_a_desc
   date:
-    detail: Jan 2021 - Current
+    detail: Jan 2021 - Jul 2021
     i18n: company_a_date
   job:
     detail: Associate
