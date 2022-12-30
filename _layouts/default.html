@@ -1,25 +1,31 @@
-<!DOCTYPE html>
-<html>
+---
+layout: compress
+---
 
-	{% if page.title != 'index' %}
-	    {% include head.html %}
-	{% else %}
-		{% include index_head.html %}
-	{% endif %}
+{% include base_path %}
 
-<body id="page-top" class="landing-page">
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-	{% if page.title != 'index' %}
-	    {% include blog_header.html %}
-	{% endif %}
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
     {{ content }}
 
-	{% if page.title != 'index' %}
-	    {% include foot.html %}
-	{% else %}
-		{% include index_foot.html %}
-	{% endif %}
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
 
-</body>
+    {% include scripts.html %}
+
+  </body>
 </html>
