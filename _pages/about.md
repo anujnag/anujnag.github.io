@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "Welcome to my Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a master's student in Stanford University, majoring in [Computational and Mathematical Engineering](https://icme.stanford.edu/). Prior to this, I did my bachelors in Computer Science and Engineering from [IIT Kanpur](https://www.cse.iitk.ac.in/). I have worked in Facebook AI's Marketplace Team in Menlo Park and Goldman Sachs' Fixed Income Division in Bengaluru collaborating with trading desks in London and New York. 
+Hi there! I am currently a master's student in Stanford University, majoring in [Computational and Mathematical Engineering](https://icme.stanford.edu/). Prior to this, I did my bachelors in Computer Science and Engineering from [IIT Kanpur](https://www.cse.iitk.ac.in/). I have worked in Facebook AI's Marketplace Team in Menlo Park and Goldman Sachs' Fixed Income Division in Bengaluru, collaborating with trading desks in London and New York. 
 
-My current academic interests revolve around natural language processing, reinforcement learning, deep generative models, quantiative finance and graph machine learning. Apart from my academic interests, I love playing music and I love to jam on guitar in my free time :) Email works best for contacting me!
+My current academic interests revolve around natural language processing, reinforcement learning, deep generative models, quantiative finance and graph machine learning. Apart from my academic interests, I love playing music and I am always looking to jam on guitar in my free time :) Email works best for contacting me!
