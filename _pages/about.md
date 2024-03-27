@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a master's student in Stanford University, majoring in [Computational and Mathematical Engineering](https://icme.stanford.edu/). Prior to this, I did my bachelors in Computer Science and Engineering from [IIT Kanpur](https://www.cse.iitk.ac.in/). I have worked in Facebook AI's Marketplace Team in Menlo Park and Goldman Sachs' Fixed Income Division in Bengaluru, collaborating with trading desks in London and New York. 
+Hi there! I am a Research Engineer at Matic Robots in Mountain View, California. Prior to this, I did my Masters in [Computational and Mathematical Engineering](https://icme.stanford.edu/) from Stanford University and Bachelors in Computer Science and Engineering from [IIT Kanpur](https://www.cse.iitk.ac.in/). I have worked in Facebook AI's Marketplace Team in Menlo Park, California and Goldman Sachs' Fixed Income Division in Bengaluru, India in the past. 
 
-My current academic interests revolve around natural language processing, reinforcement learning, deep generative models, quantitative finance and graph machine learning. Apart from my academic interests, I love playing music and I am looking to jam on guitar in my free time :) Email works best for contacting me!
+I have a keen interest in problem-solving using software engineering and mathematical tools. Post work, I love playing music in my free time and I am always looking to jam. Email me at anujnagpal96@gmail.com for interesting opportunities!
